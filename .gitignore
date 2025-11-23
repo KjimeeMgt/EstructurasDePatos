@@ -1,0 +1,49 @@
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDEs and editors
+.idea/
+.vscode/
+!.vscode/extensions.json
+.DS_Store
+
+# Logs and debug files
+*.log
+lerna-debug.log*
+logs/
+
+# Node.js (frontend)
+src/frontend/node_modules/
+bun.lock
+*.local
+
+# Build artifacts
+build/
+dist/
+dist-ssr/
+src/frontend/dist/
+
+# Database (si no se versiona)
+app.db
+
+# Miscellaneous
+*.njsproj
+*.ntvs*
+*.sln
+*.suo
+*.sw?
+*.manifest
+*.bak
+*.tmp
+*.exe
+
+# PyInstaller specs
+*.spec
