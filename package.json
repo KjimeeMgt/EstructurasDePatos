@@ -1,0 +1,22 @@
+{
+  "name": "estructurasdepatos",
+  "version": "1.0.0",
+  "description": "Este es el proyecto final de Estructuras de Datos, en el cual tenemos que hacer una app con Python y usando algunas estructuras de datos, en las cuales usamos Arboles Binarios y Listas Enlazadas.\r El proyecto fue creado con Flask para el backend y React para el frontend, y se compila todo en un solo ejecutable usando PyInstaller, usando SQLite como base de datos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMikeDevTech/EstructurasDePatos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MrMikeDevTech/EstructurasDePatos/issues"
+  },
+  "homepage": "https://github.com/MrMikeDevTech/EstructurasDePatos#readme"
+}
+
